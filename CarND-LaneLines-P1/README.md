@@ -1,4 +1,4 @@
-Udacity self driving car ND - P! - Finding lanes
+Udacity self driving car ND - P1 - Finding lanes
 =======================================
 Pipeline consists of 5 steps.
 
@@ -9,3 +9,5 @@ Pipeline consists of 5 steps.
     - Eliminated almost horizontal lines i.e. slope < 0.5
     - Used top 5 longest lines for slope average calculation
 5. Lastly, the image having lane markings are overlapped onto initial image
+
+# TODO: Doc to be enriched
